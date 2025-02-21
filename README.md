@@ -1,5 +1,19 @@
-# 💫 About Me:
-👨‍💻 Currently Working On:<br>Building web applications using React & Node.js 🔥<br><br>📚 Currently Learning:<br>Exploring more about JavaScript and React ⚛️<br><br>🛠️ Tech I Know:<br><br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Node.js, Express.js<br>Version Control: Git, GitHub<br>Other Tools: VS Code, Postman 🔧<br>🚀 Open to Collaborating on:<br>Web development projects and creating cool, interactive apps! Let’s build something great 💡
+# 💫 About Me
+
+👨‍💻 **Hey, I'm Arpit!**  
+Currently building awesome web apps with **React** & **Node.js** 🔥
+
+📚 **Currently Learning**  
+Leveling up my skills in **JavaScript** & **React** to create even more dynamic and interactive experiences ⚛️
+
+🛠️ **Tech I Know**  
+- **Frontend**: HTML, CSS, JavaScript, React  
+- **Backend**: Node.js, Express.js  
+- **Version Control**: Git, GitHub  
+- **Other Tools**: VS Code, Postman
+
+🚀 **Open to Collaborating On**  
+Anything web-related! Whether it's creating interactive apps or collaborating on exciting projects, let's make something amazing together 💡
 
 
 ## 🌐 Socials:
