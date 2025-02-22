@@ -16,8 +16,10 @@ Leveling up my skills in **JavaScript** & **React** to create even more dynamic 
 Anything web-related! Whether it's creating interactive apps or collaborating on exciting projects, let's make something amazing together 💡
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vermaarpit253@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-verma-650914315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## 🌐 Socials:[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vermaarpit253@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-verma-650914315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/arpitverma140705?igsh=MWFsM3BzeGN4YjcwaQ==)
+
 
 
 
