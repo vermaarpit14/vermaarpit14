@@ -1,19 +1,15 @@
 # 💫 About Me
 
-👨‍💻 **Hey, I'm Arpit!**  
-Currently building awesome web apps with **React** & **Node.js** 🔥
+👨‍💻 **Hey, I'm Gaurav!**  
+Currently  Learning DSA from TUF+ ** 🔥
 
 📚 **Currently Learning**  
-Leveling up my skills in **JavaScript** & **React** to create even more dynamic and interactive experiences ⚛️
+Leveling up my skills in **Competeetive Programming ** to create even more dynamic and interactive experiences ⚛️
 
 🛠️ **Tech I Know**  
-- **Frontend**: HTML, CSS, JavaScript, React  
-- **Backend**: Node.js, Express.js  
 - **Version Control**: Git, GitHub  
-- **Other Tools**: VS Code, Postman
+- **Other Tools**: VS Code , intellij , replit 
 
-🚀 **Open to Collaborating On**  
-Anything web-related! Whether it's creating interactive apps or collaborating on exciting projects, let's make something amazing together 💡
 
 
 ## 🌐 Socials:
